@@ -6,12 +6,14 @@ function devolverString(string) {
    // Tu código:
 }
 
+
 // ⛔️ "X" e "Y" son números.
 
 function suma(x, y) {
-   // Retorna el resultado de su suma.
-   // Tu código:
+   var suma = a + b   // Retorna el resultado de su suma.
+   return suma// Tu código:
 }
+suma(8,7)
 
 function resta(x, y) {
    // Retorna el resultado de la resta.
