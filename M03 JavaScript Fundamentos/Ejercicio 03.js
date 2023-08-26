@@ -5,7 +5,7 @@ function sonIguales(x, y) {
    // Retorna true si "x" e "y" son iguales.
    // De lo contrario, retorna false.
    // Tu código:
-   if (x == 5 && y == 6){
+   if (x == 6 && y == 6){
       return true
    }else{
       return false
@@ -50,9 +50,9 @@ function esPar(num) {
    // De lo contrario, retorna false.
    // Tu código:
    if(num % 2 == 0 ){
-      return true + ', es par'
+      return true 
    }else{
-      return false + ', es impar'
+      return false
    }
 }
 
